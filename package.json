@@ -2,7 +2,7 @@
   "name": "fruitsmong",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "mon.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^4.3.1"
+    "mongodb": "^4.3.1",
+    "mongoose": "^6.2.1"
   }
 }
